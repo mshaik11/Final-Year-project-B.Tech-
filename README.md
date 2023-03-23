@@ -1,0 +1,2 @@
+# Final-Year-project-B.Tech-
+Our project proposes a method to create a video/image anonymizer that can remove privacy-sensitive information while still maintaining scene understanding performance. The technique involves training two competing systems: an anonymizer that removes private information, like human face identity, while preserving scene understanding and a discriminator that extracts privacy-sensitive information from anonymized videos. The approach uses adversarial training to develop a principled way to learn the video/image anonymizer.
